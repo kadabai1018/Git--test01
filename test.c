@@ -5,7 +5,7 @@ int main(){
 	scanf("%d",&a);
 	printf("a=%d\n",a);
 	int b = 5;
-	printf("%d\n",a+b);
+	printf("%d\n",a+b);hot-fix2
 	//hot fix 修改
 	return 0;
 }
