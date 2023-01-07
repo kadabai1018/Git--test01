@@ -8,5 +8,6 @@ int main(){
 	printf("%d\n",a+b); master1 || hot-fix2
 	//hot fix 修改
 	//testing fecth
+	//模拟另一个人修改 李四
 	return 0;
 }
