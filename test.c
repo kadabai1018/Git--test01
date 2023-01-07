@@ -6,5 +6,6 @@ int main(){
 	printf("a=%d\n",a);
 	int b = 5;
 	printf("%d\n",a+b);
+	//hot fix 修改
 	return 0;
 }
