@@ -12,5 +12,6 @@ int main(){
 	//SSH秘钥拉取
 	//SSh秘钥推送
     //git desk
+    //现在这样子算是git九很好用了，只差配置忽略文件了
 	return 0;
 }
