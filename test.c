@@ -10,5 +10,6 @@ int main(){
 	//testing fecth
 	//模拟另一个人修改 wangwu
 	//SSH秘钥拉取
+	//SSh秘钥推送
 	return 0;
 }
